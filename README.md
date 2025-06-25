@@ -40,10 +40,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Trung-Minh&icon=5&color=6" />
-</div>
-
 
