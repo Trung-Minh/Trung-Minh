@@ -29,10 +29,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Trung-Minh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trung-Minh&theme=midnight-purple&hide_border=false"> 
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trung-Minh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
-
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trung-Minh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ---
 
